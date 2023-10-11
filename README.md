@@ -1,6 +1,6 @@
 # UMEED - Mental Health Monitoring and Support App
 
-![Umeed Logo](https://imgur.com/jkyL6KC)
+[Umeed](https://imgur.com/jkyL6KC)
 
 ## Overview
 
